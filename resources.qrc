@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="images">
+    <file>close_Hover.svg</file>
+    <file>Data.svg</file>
+    <file>GolrendLogo 1.svg</file>
+    <file>home.svg</file>
+    <file>less-transactions.svg</file>
+    <file>market-trend.svg</file>
+    <file>minimize_Hover.svg</file>
+    <file>minus_Hover.svg</file>
+    <file>more-transactions.svg</file>
+    <file>Receive.svg</file>
+    <file>Rectangle 1.png</file>
+    <file>server.svg</file>
+    <file>settings.svg</file>
+    <file>swap.svg</file>
+  </qresource>
+</RCC>
